@@ -12,7 +12,6 @@ body {
 /* Add styles here! */
 
 .max-width-wrapper {
-  /* height: 50%; */
   padding-top: 50px;
 }
 
@@ -44,14 +43,14 @@ body {
 }
 
 p strong {
-  color: rgb(36, 152, 107);
+  color: hsl(160deg, 100%, 30%);
 }
 
 .indented-heading {
   max-width: fit-content;
-  background-color: rgb(242, 200, 60);
+  background-color: hsl(45deg, 100%, 50%);
   padding: 20px 30px;
   margin-left: -43px;
   margin-top: 1px;
-  border-bottom: 0.3em solid rgb(191, 153, 30);
+  border-bottom: 0.3em solid hsl(45deg, 100%, 40%);
 }
